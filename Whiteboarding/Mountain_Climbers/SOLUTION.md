@@ -17,6 +17,7 @@ A.) The 2D array will always be either a square or a rectangle
 ### Edge Cases
 * No path to return
 ```
+Example:
 [
 [4, 3, 5, 1]
 [2, 2, 2, 3]
@@ -28,6 +29,7 @@ If no path, return undefined
 ```
 * Negative Numbers
 ```
+Example:
 [
 [-2, -5, -1]
 [2, 0, 1]
@@ -38,6 +40,7 @@ When finding min and max position the person's inital variable have to be min= i
 ```
 * Flat Plane/Local Maximum
 ```
+Example:
 [
 [0,3,4,5,6,6,3]
 [1,3,4,3,6,6,3]
