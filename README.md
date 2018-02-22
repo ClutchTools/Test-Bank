@@ -11,7 +11,7 @@ This is an aggregate of information intended for those who are pursuing front-en
 Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
 
 ### Authors
-Jason McCutchan
+[Jason McCutchan] (https://github.com/JClutch)
 
 
 ### Major Contributors
