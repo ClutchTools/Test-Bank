@@ -15,3 +15,4 @@ Jason McCutchan
 
 
 ### Contributors
+Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
