@@ -8,11 +8,11 @@ This is an aggregate of information intended for those who are pursuing front-en
 * Whiteboarding problems
 * System design problems
 ## Contributing
-Please read CONTRIBUTING.md
+Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
 
 ### Authors
 Jason McCutchan
 
 
-### Contributors
-Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
+### Major Contributors
+
