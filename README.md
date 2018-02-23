@@ -10,6 +10,9 @@ This is an aggregate of information intended for those who are pursuing front-en
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
 
+## Code of Conduct
+Please read [CODE_OF_CONDUCT.md](https://github.com/JClutch/Test-Bank/blob/master/CODE_OF_CONDUCT.md) for this project.
+
 ### Authors
 [Jason McCutchan](https://github.com/JClutch)
 
