@@ -15,4 +15,4 @@ Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/C
 
 
 ### Major Contributors
-
+[Ethan Lipkind](https://github.com/ethantheman)
