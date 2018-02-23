@@ -1,6 +1,6 @@
 # Towers of Hanoi - solution
 The number of moves required to solve this puzzle is given by (2^n) - 1.  As such, the sequence of moves becomes difficult to follow as n increases.  However, the puzzle can be easily solved for any size input by breaking it down into smaller problems that can be solved recursively.  For n = 2, the solution has three steps and looks like this:
-## starting position
+# starting position
 **start: [2, 1]**
 **helper: [ ]**
 **destination: [ ]**
@@ -52,8 +52,8 @@ hanoi(n-1, helper, start, destination);
 Here, we reverse the positions of **helper** and **start **so that when we recurse, we will be executing the third step of our algorithm, moving a tower of n - 1 discs from **helper** to **destination**.
 
 Examine the complete solution code below and, if it remains unclear, try to diagram the call stack for n = 1, n = 2, and n = 3.
-```markdown
-let hanoi = (n, start, helper, destination) => {
+
+    let hanoi = (n, start, helper, destination) => {
     if ( n > 0 ) {
         // move tower of size n - 1 from start to helper 
         hanoi(n - 1, start, destination, helper);
@@ -67,4 +67,4 @@ let hanoi = (n, start, helper, destination) => {
         hanoi(n - 1, helper, start, destination);
     }
 }
-```
+
