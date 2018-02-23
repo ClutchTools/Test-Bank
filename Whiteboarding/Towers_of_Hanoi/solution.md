@@ -43,7 +43,7 @@ if ( start[0].length > 0 ) {
     destination[0].push(disc);
 }
 ```
-The key point to understand here is this: *since we change the order of function parameters in the recursive calls, the variables **start** and **destination** will not actually refer to the* *original function parameters **start** and **destination** at every point in the call stack.  Furthermore, we should notice that this is actually the only step in the solution where we take a disc off of one 'rod' and move it onto another. Everywhere else in the function, we are making recursive calls and flipping around the order of the function parameters.
+The key point to understand here is this: *since we change the order of function parameters in the recursive calls, the variables **start** and **destination** will not actually refer to the original function parameters **start** and **destination** at every point in the call stack.  Furthermore, we should notice that this is actually the only step in the solution where we take a disc off of one 'rod' and move it onto another. Everywhere else in the function, we are making recursive calls and flipping around the order of the function parameters.
 
 **Step three** is a recursive call given by:
 ```markdown
