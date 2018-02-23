@@ -15,7 +15,7 @@ The number of moves required to solve this puzzle is given by (2^n) - 1.  As suc
 **helper: [ 1 ]**
 **destination: [ 2 ]**
 
-## move #3** **
+## move #3
 **start: [ ]**
 **helper: [ ]**
 **destination: [ 2, 1 ]**
@@ -33,7 +33,7 @@ let hanoi = (n, start, helper, destination) => {...}
 ```markdown
 hanoi(n-1, start, destination, helper);
 ```
-Notice that, compared to the original function declaration, the positions of **destination** and **helper **are reversed.  We will see why this is necessary in the next step.
+Notice that, compared to the original function declaration, the positions of **destination** and **helper** are reversed.  We will see why this is necessary in the next step.
 
 **Step two** involves popping the **start** stack and pushing the popped value onto the **destination** stack (and printing out the move that we made):
 ```markdown
@@ -43,13 +43,13 @@ if ( start[0].length > 0 ) {
     destination[0].push(disc);
 }
 ```
-The key point to understand here is this: *since we change the order of function parameters in the recursive calls, the variables **start** and **destination** will not actually refer to the* *original function parameters **start **and **destination **at every point in the call stack**.  ***Furthermore, we should notice that this is actually the only step in the solution where we take a disc off of one 'rod' and move it onto another. Everywhere else in the function, we are making recursive calls and flipping around the order of the function parameters.
+The key point to understand here is this: *since we change the order of function parameters in the recursive calls, the variables **start** and **destination** will not actually refer to the* *original function parameters **start** and **destination** at every point in the call stack**.***  Furthermore, we should notice that this is actually the only step in the solution where we take a disc off of one 'rod' and move it onto another. Everywhere else in the function, we are making recursive calls and flipping around the order of the function parameters.
 
-**Step three **is a recursive call given by:
+**Step three** is a recursive call given by:
 ```markdown
 hanoi(n-1, helper, start, destination);
 ```
-Here, we reverse the positions of **helper** and **start **so that when we recurse, we will be executing the third step of our algorithm, moving a tower of n - 1 discs from **helper** to **destination**.
+Here, we reverse the positions of **helper** and **start** so that when we recurse, we will be executing the third step of our algorithm, moving a tower of n - 1 discs from **helper** to **destination**.
 
 Examine the complete solution code below and, if it remains unclear, try to diagram the call stack for n = 1, n = 2, and n = 3.
 
