@@ -14,7 +14,7 @@ There are two empty rods next to this rod (let's call them helper and destinatio
 - NOTE: it will be helpful to treat each stack as a tuple where the value at index 0 is the stack itself, and the value at index 1 is the name of the stack.
 ## The output of your algorithm should be:
 ```markdown
-An array describing each of the steps you must take to solve the puzzle in the minimum number of moves.
+Print statements describing each of the steps you must take to solve the puzzle in the minimum number of moves.
 ```
 
 ## *Example input:*
@@ -22,7 +22,7 @@ An array describing each of the steps you must take to solve the puzzle in the m
 - **start = [[2, 1], "start"]**
 - **helper = [ [ ], "helper" ]**
 - **destination: [ [ ], "destination" ]**
-## *Example output:*
-**["Disc 1 moved from start to helper", **
-**"Disc 2 moved from start to destination", **
-**"Disc 1 moved from helper to destination"] **
+## Example output:
+"Disc 1 moved from start to helper", 
+"Disc 2 moved from start to destination", 
+"Disc 1 moved from helper to destination"
