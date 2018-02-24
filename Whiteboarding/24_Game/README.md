@@ -1,4 +1,4 @@
-## Prompt
+## 24 Game Prompt
 
 You have 4 cards each containing a number from 1 to 9. You need to judge whether they could operated through *, /, +, -, (, ) to get the value of 24.
 
