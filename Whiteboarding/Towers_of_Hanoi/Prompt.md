@@ -18,7 +18,8 @@ without breaking either of the following rules:
 - NOTE: it will be helpful to treat each stack as a tuple where the value at index 0 is the stack itself, and the value at index 1 is the name of the stack.
 ## The output of your algorithm should be:
 ```markdown
-Print statements describing each of the steps you must take to solve the puzzle in the minimum number of moves.
+Print statements describing each of the steps you must take 
+to solve the puzzle in the minimum number of moves.
 ```
 
 ## *Example input:*
