@@ -1,4 +1,5 @@
 # **Towers of Hanoi**
+## Prompt
 ```markdown
 Imagine a rod with n discs stacked on it in sorted order such that the largest disc sits at the bottom of the stack and the smallest disc sits on top of the stack. For example, if n = 3, the largest disc (#3) would be on the bottom, #2 would be in the middle, and #1 would be on the top.  
 
