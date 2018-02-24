@@ -3,3 +3,6 @@ The prompt for each white boarding will be in the Prompt.md file of each folder.
 Notes and general soltuion outline will be listed in the SOLUTION.md file and an example code solution will be available in the SOLUTION.js file.
 
 ## Contributing
+Please follow the example format located in the [Format_Example](https://github.com/JClutch/Test-Bank/tree/master/Whiteboarding/Format_Example) folder.
+
+Also please read and foloww [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md)
