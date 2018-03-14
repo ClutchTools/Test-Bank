@@ -1,6 +1,6 @@
 # Restaurant E.T.L 
 
-##Prompt
+## Prompt
 
 Using your choice of language and data store, create and E.T.L(Extract, Transform, Load) service to ingest from DOHMH New York City Restaurant Inspection Result Data set from NYC Open Data.
 
