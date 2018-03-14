@@ -6,7 +6,7 @@ Using your choice of language and data store, create and E.T.L(Extract, Transfor
 
 (Download Link: https://nycopendata.socrata.com/api/views/xx67-kt59/rows.csv?accessType=DOWNLOAD)
 
-Generate a list of the top 10 Thai restraunts that have atleast a B health grade rating or better and enter these in your data store. This could be handled using a SQL query but this challenge is focused around building a front end to solve this problem. Also add visualizations of the selected data.
+Generate a list of the top 10 Italian restraunts that have atleast a B health grade rating or better and enter these in your data store. This could be handled using a SQL query but this challenge is focused around building a front end to solve this problem. Also add visualizations of the selected data.
 
 **NOTES**
 
