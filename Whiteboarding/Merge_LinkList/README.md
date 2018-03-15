@@ -12,3 +12,10 @@ Returns:
 {value: 2, next: ->} {value: 4, next: ->} {value: 3, next: null}
 
 ```
+**NOTES**
+
+There are varying degrees of difficulty with this problem with minor changes.
+
+Easiest version: Return an array of the sumed values
+Medium version: Return a LL of the sumed values (create own LL constructor)
+Hard version: Return an LL of sumed values and with time compelxity O(N)
