@@ -5,7 +5,7 @@ There is a group of a 100 people in a line (all numbered 1-100) and a room fille
 
 Please write a function to find this answer given a single number input of N=100
 
-Can you write a functio0n that solves this faster than linear time?
+Can you write a function that solves this in constant time?
 
 Example to give
 ```
