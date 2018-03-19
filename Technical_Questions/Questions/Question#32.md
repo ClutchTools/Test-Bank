@@ -22,10 +22,10 @@ Think of this as a weeder question to separate out people who can only code via 
 
 ### Layman-level outline
 ```
-Browser accepts the input "gmail.com".
-Computer sends a request for that page to Google's computers.
-Google's computers process the request and sends the page contents back.
-Browser displays the page.
+* Browser accepts the input "gmail.com".
+* Computer sends a request for that page to Google's computers.
+* Google's computers process the request and sends the page contents back.
+* Browser displays the page.
 ```
 ### High-level outline for interviews
 ```
