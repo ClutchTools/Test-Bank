@@ -4,6 +4,8 @@ What happens when you type in google.com into your browser and press enter?
 
 ## Answer
 
+ALL CREDIT -> https://github.com/tim-hr/stuff/wiki/Outline-for-%22What-happens-when-you-type-http:--www.gmail.com-into-your-browser-location-bar%3F%22
+
 ### What interviewers are looking for
 ```
 1.) Do you have a clear, systemic understanding of how web apps work?
