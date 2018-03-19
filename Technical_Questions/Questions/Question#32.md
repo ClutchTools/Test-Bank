@@ -21,7 +21,7 @@ In particular, when you are doing (a) system design and (b) troubleshooting, hav
 Think of this as a weeder question to separate out people who can only code via copy/paste/tweak (and don't really understand what's going on) versus people who code based on clear mental models.
 
 ### Layman-level outline
-* Browser accepts the input "gmail.com".
+* Browser accepts the input "google.com".
 * Computer sends a request for that page to Google's computers.
 * Google's computers process the request and sends the page contents back.
 * Browser displays the page.
