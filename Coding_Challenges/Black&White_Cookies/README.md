@@ -4,7 +4,7 @@
 
 Build an HTML page (or web app) that:
 
-Shows a user an image of either a red or blue ball upon visiting the page. This should be random, with a 50/50 chance of a user being shown either color ball.
+Shows a user an image of either a black or white ball upon visiting the page. This should be random, with a 50/50 chance of a user being shown either color ball.
 Determine whether the user saw a black or a white ball and the next time a user visits the page show them the same color ball they saw previously.
 
 Please work with cookies (and not local storage) to record how many times a user has seen each color of ball. You should be able to provide a report on users and number of times they saw each color ball.
