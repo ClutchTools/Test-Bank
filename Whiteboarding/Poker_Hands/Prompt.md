@@ -1,6 +1,6 @@
 ## Prompt
 
-Please write out the prompt that will be given to the person whiteboarding
+To be added by Jon Yuen...
 
 Example to give
 ```
