@@ -3,9 +3,6 @@
 Write a function that will return the rank of a poker hand.
 ```
 
-## There is only one input to your function:
-``` hand - an array with 5 elements, each element will represent a card```
-
 ##### Example of a hand - ['1♦', '12♣', '7♦', '9♠', '13♦']
 
 * Each element will always have a number that represents the rank of the card, followed by the suit.
