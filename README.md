@@ -10,7 +10,7 @@ This is an aggregate of information intended for those who are pursuing front-en
 * Whiteboarding problems
 * System design problems
 ## Contributing
-Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) who participated in this project.
+Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) to participate in this project.
 
 ## Code of Conduct
 Please read [CODE_OF_CONDUCT.md](https://github.com/JClutch/Test-Bank/blob/master/CODE_OF_CONDUCT.md) for this project.
