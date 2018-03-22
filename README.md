@@ -11,7 +11,7 @@ This is an aggregate of information intended for those who are pursuing front-en
 
 ## Additional Resources
 
-[Bernie's List] (https://docs.google.com/document/d/1G4npWlJrIJluh66C07al3_1kSsHcgrenRSvnnH-HKSQ/edit) 
+[Bernie's List](https://docs.google.com/document/d/1G4npWlJrIJluh66C07al3_1kSsHcgrenRSvnnH-HKSQ/edit) 
 ^Here is a curated google doc list by Bernard Lin who only lists what he deems as crucial resources for preparing for interviews.
 
 ## Contributing
