@@ -1,7 +1,8 @@
 # Test-Bank
 The Job Hunt is Dark and Full of Terrors. May This Repo Cast it's Light Upon You!
-## What this is and for who
-This is an aggregate of information intended for those who are pursuing front-end or fullstack job positions using javascript.
+
+This is an aggregate of information intended for those who are pursuing front-end or fullstack developer positions using javascript.
+
 ### Topics will include
 * Technical Questions
 * Coding Challenges
