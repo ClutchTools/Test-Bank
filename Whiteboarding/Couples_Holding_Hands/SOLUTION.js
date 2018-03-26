@@ -1,5 +1,5 @@
 /*
-NOTE: There is more likely a more optimal solution that is O(N) time complexity.
+NOTE: There is more than likely a more optimal solution that is O(N) time complexity.
 Feel free to submit a pull request with a more optomized solution.
 */
 
