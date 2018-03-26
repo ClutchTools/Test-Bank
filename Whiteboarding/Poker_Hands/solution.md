@@ -1,5 +1,7 @@
 # Poker Hands - Solution
 
+*[Medium article on this solution](https://medium.com/@jonathanyuenby/how-i-built-my-first-react-native-app-part-2-how-do-i-figure-out-the-strength-of-a-poker-hand-d08f1f4b3c09)*
+
 ### Algorithm
 
 An easy way to approach this problem is by identifying the key rules and breaking it down into smaller, individual problems.
