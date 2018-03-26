@@ -16,6 +16,6 @@ Returns:
 
 There are varying degrees of difficulty with this problem with minor changes.
 
-Easiest version: Return an array of the sumed values
-Medium version: Return a LL of the sumed values (create own LL constructor)
+Easiest version: Return an array of the sumed values <br>
+Medium version: Return a LL of the sumed values (create own LL constructor) <br>
 Hard version: Return an LL of sumed values and with time compelxity O(N)
