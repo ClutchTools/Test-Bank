@@ -16,6 +16,8 @@ This is an aggregate of information intended for those who are pursuing front-en
 [Bernie's List](https://docs.google.com/document/d/1G4npWlJrIJluh66C07al3_1kSsHcgrenRSvnnH-HKSQ/edit) 
 <- A curated google doc by Bernard Lin who only lists what he deems as crucial resources for preparing for interviews.
 
+[System Design Interview Prep](https://github.com/checkcheckzz/system-design-interview) <- Repo dedicated to System Design Related questions and interview preperation.
+
 ## Contributing
 Please read [CONTRIBUTING.md](https://github.com/JClutch/Test-Bank/blob/master/CONTRIBUTING.md) to participate in this project.
 
