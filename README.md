@@ -1,6 +1,8 @@
 # Test-Bank
 The Job Hunt is Dark and Full of Terrors. May This Repo Cast it's Light Upon You!
-<iframe src="https://giphy.com/embed/L1iiFwaCvbIVG" width="480" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-spirit-indestructible-L1iiFwaCvbIVG">via GIPHY</a></p>
+
+![Alt Text](https://media.giphy.com/media/L1iiFwaCvbIVG/giphy.gif)
+
 This is an aggregate of information intended for those who are pursuing front-end or fullstack developer positions using javascript.
 
 ### Topics will include
