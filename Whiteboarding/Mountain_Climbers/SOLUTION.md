@@ -3,7 +3,9 @@
 ### Common Questions
 * Will there be duplicate values or all integers will be unique?
 ```
-A.) Duplicate maximum values is the more difficult version of this problem which the included solution will not handle. Same for duplicate minimums. There will be duplicate values though inbetween that are not the maximum or minimum value.
+A.) Duplicate maximum values is the more difficult version of this problem which the included solution <br>
+will not handle. Same for duplicate minimums. There will be duplicate values though inbetween that are <br>
+not the maximum or minimum value.
 ```
 * Will I be given anything besides a 2D array of integers?
 ```
@@ -36,7 +38,8 @@ Example:
 [5, 6, -1]
 ]
 
-When finding min and max position the person's inital variable have to be min= infinity, max= -infinity, or both equal to null/undefined
+When finding min and max position the person's inital variable have to be min= infinity, max = -infinity,<br>
+or both equal to null/undefined
 ```
 * Flat Plane/Local Maximum
 ```
@@ -48,6 +51,7 @@ Example:
 [4,4,4,5,6,7,9]
 ]
 
-A solution without keeping track of where the person have moved from would hit an infinite loop in this solution.
-Any data structure that keeps track of places been and they implement a check against it with each step would handle this.
+A solution without keeping track of where the person have moved from would hit an infinite loop <br>
+in this solution. Any data structure that keeps track of places been and they implement a check <br>
+against it with each step would handle this.
 ```
