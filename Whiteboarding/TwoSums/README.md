@@ -5,7 +5,8 @@
 Write a function that when given an array of numbers and a target integer will return any two integers within the array that could add up to the target value.
 
 Version 1: Solve in linear time! <br>
-Version 2: Solve in linear time and constant space! (yes you can use var but no arrays, objects, or data structures)
+Version 2: Solve in linear time and constant space! (yes you can use var/let/const but no arrays, objects, or data structures) <br>
+**Note they must ask if all arrays will be sorted as they will be**
 
 Examples to give
 
