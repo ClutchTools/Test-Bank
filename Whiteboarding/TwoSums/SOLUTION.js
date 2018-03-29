@@ -12,7 +12,7 @@ const twoSums = (array, target) => {
   return false
 }
 
-//Version2 (Constant Space and Constant Time)
+//Version 2 (Constant Space and Constant Time)
 const twoSums = (array, target) =>{
   let A = 0
   let B;
