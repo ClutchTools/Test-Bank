@@ -9,8 +9,8 @@ This is an aggregate of information intended for those who are pursuing front-en
 * [Technical Questions](https://github.com/JClutch/Test-Bank/tree/master/Technical_Questions)
 * [Coding Challenges](https://github.com/JClutch/Test-Bank/tree/master/Coding_Challenges)
 * Data Structure problems
-* Whiteboarding problems(https://github.com/JClutch/Test-Bank/tree/master/Whiteboarding)
-* System design problems(https://github.com/JClutch/Test-Bank/tree/master/System_Design)
+* [Whiteboarding problems](https://github.com/JClutch/Test-Bank/tree/master/Whiteboarding)
+* [System design problems](https://github.com/JClutch/Test-Bank/tree/master/System_Design)
 
 ## Additional Resources
 
