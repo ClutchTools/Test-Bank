@@ -1,5 +1,5 @@
 var addTwoLists = function(l1, l2) {
-    //
+
     let newList = [];
     let carryOver = 0;
 
