@@ -29,9 +29,15 @@ calcSq = (list) => {
   return sqrt * sqrt
 }
 
-//K-Nearest Neighbor Solution
 
 
+
+/*K-Nearest Neighbor Solution
+This is the more optimal as it is quadratic time solution versus exponential 
+
+This solution could be cleaned up and slightly optomized <--- great pull request if anyone wants to =]
+
+*/
 const findSmallestSquare = function(x, y, k){
 	var small = null
 	var gr = new graph(k)
@@ -71,9 +77,7 @@ graph.prototype.findSquare = function(node){
     var xs = node.neighbors[1][1].x
     var yl = node.neighbors[1][1].y
     var ys = node.neighbors[1][1].y
-	console.log('what does a node look like', node)
 	node.neighbors.forEach((val) => {
-	  console.log('what is val', val[1])
 		if(val[1].x > xl){
 			xl = val[1].x
 		}
@@ -87,7 +91,6 @@ graph.prototype.findSquare = function(node){
 			ys = val[1].y 
 		}
 	})
-	console.log('here are our points!!!!', xl, xs, yl, ys)
 	xl += 1
 	xs -= 1
 	yl += 1
@@ -123,13 +126,3 @@ graph.prototype.findNeighbors = function(){
 		this.findSquare(val)
 	})
 }
-
-// Jonathan Yuen [3:38 PM]
-let x = [0, 2, 2];
-let y = [0, 7, 2];
-let k = 2;
-
-// ans should be 16
-
-var result = findSmallestSquare(x, y, k)
-console.log(result)
