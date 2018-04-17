@@ -20,7 +20,7 @@ Output:
 Should return 16
 
 Explanation:
-The square will encompass either (0,0) + (2,2) or (2,7) + (2,2)
+The square will encompass (0,0) + (2,2)
 *The squares sides can't go through the points but have to wrap around them*
 
 ```
