@@ -24,4 +24,4 @@ Style the page to the best of the ability to make the UI look clean and presenta
 Checkin or Click Update from the top Menu and save the link
 
 ## Resources
-https://jsfiddle.net/mpatel369/1epbdbj4/gustafs-mbp:iTunes_Search gustafbrostedt$ cd ..
+https://jsfiddle.net/mpatel369/1epbdbj4
