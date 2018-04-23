@@ -31,4 +31,5 @@ Please read [CODE_OF_CONDUCT.md](https://github.com/JClutch/Test-Bank/blob/maste
 ### Major Contributors
 [Ethan Lipkind](https://github.com/ethantheman) <br>
 [Andrew Lichtenstein](https://github.com/andrewblgithub) <br>
-[Jonathan Yuen](https://github.com/lalapro)
+[Jonathan Yuen](https://github.com/lalapro) <br>
+[Gustaf Brostedt](https://github.com/GustafB) <br>
