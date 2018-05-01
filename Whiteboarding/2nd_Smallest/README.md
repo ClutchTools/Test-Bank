@@ -1,7 +1,7 @@
 # 2nd Smallest Element
 ## Prompt
 
-Given an array of integers, return the 2nd smallest value in the array
+Given an array of integers, return the 2nd smallest value in the array <br>
 Solve for linear time complexity -> O(N)
 
 Example to give
