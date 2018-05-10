@@ -51,7 +51,7 @@ const child = (steps, memo = []) => {
     return 0;
   } else if (steps === 0) {
     return 1;
-  } else if (memo[steps] > -1) {
+  } else if (memo[steps]) {
     return memo[steps];
   } else {
     memo[steps] = child(steps - 1, memo) + child(steps - 2, memo) + child(steps - 3, memo);
