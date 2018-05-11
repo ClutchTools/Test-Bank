@@ -1,12 +1,11 @@
 # **Towers of Hanoi**
+## Prompt
 ```markdown
 Imagine a rod with n discs stacked on it in sorted order such that the largest disc sits at the bottom
 of the stack and the smallest disc sits on top of the stack. For example, if n = 3, the largest disc (#3)
 would be on the bottom, #2 would be in the middle, and #1 would be on the top.  
 
-There are two empty rods next to this rod (let's call them helper and destination).  
-Devise an algorithm that will move all the discs from the start rod to the destination 
-without breaking either of the following rules: 
+There are two empty rods next to this rod (let's call them helper and destination).  Devise an algorithm that will move all the discs from the start rod to the destination without breaking either of the following rules:
 ```
 1. You may only move one disc at a time.
 1. A disc cannot be placed on top of a smaller disc.
@@ -28,6 +27,6 @@ to solve the puzzle in the minimum number of moves.
 - **helper = [ [ ], "helper" ]**
 - **destination: [ [ ], "destination" ]**
 ## Example output:
-"Disc 1 moved from start to helper", 
-"Disc 2 moved from start to destination", 
+"Disc 1 moved from start to helper",
+"Disc 2 moved from start to destination",
 "Disc 1 moved from helper to destination"

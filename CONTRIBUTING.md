@@ -3,7 +3,13 @@
 When contributing to this repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a [Code of Conduct](https://github.com/JClutch/Test-Bank/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
+
+## Issues Notes
+
+If you notice an error or feel a solution is lacking please specificy exactly which file this is in as well as your specific proposed change or edge case.
+
+If you are interested in submitting problems that should be a part of this project please either make a pull request or submit a git issue with as much detail about the problem as possible as well as the correct file directory it should be entered under.
 
 ## Pull Request Notes
 

@@ -1,0 +1,3 @@
+## A solution....
+
+https://github.com/GustafB/itunes-search
