@@ -1,7 +1,9 @@
 # **Towers of Hanoi**
 ## Prompt
 ```markdown
-Imagine a rod with n discs stacked on it in sorted order such that the largest disc sits at the bottom of the stack and the smallest disc sits on top of the stack. For example, if n = 3, the largest disc (#3) would be on the bottom, #2 would be in the middle, and #1 would be on the top.  
+Imagine a rod with n discs stacked on it in sorted order such that the largest disc sits at the bottom
+of the stack and the smallest disc sits on top of the stack. For example, if n = 3, the largest disc (#3)
+would be on the bottom, #2 would be in the middle, and #1 would be on the top.  
 
 There are two empty rods next to this rod (let's call them helper and destination).  Devise an algorithm that will move all the discs from the start rod to the destination without breaking either of the following rules:
 ```
@@ -15,7 +17,8 @@ There are two empty rods next to this rod (let's call them helper and destinatio
 - NOTE: it will be helpful to treat each stack as a tuple where the value at index 0 is the stack itself, and the value at index 1 is the name of the stack.
 ## The output of your algorithm should be:
 ```markdown
-Print statements describing each of the steps you must take to solve the puzzle in the minimum number of moves.
+Print statements describing each of the steps you must take 
+to solve the puzzle in the minimum number of moves.
 ```
 
 ## *Example input:*
