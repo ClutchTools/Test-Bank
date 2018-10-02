@@ -1,8 +1,3 @@
-## Prompt 
-
-Given the following code snippet below, please finish the cleanseFunction so that it doesn't break the for loop and so that in the for loop it console logs either the random number or the error message.
-
-```
 function randomChanceError(x){
   var i;
   if(typeof x !== "number"){
@@ -18,7 +13,13 @@ function randomChanceError(x){
 }
 
 function cleanseFunction(fn){
-/*YOUR CODE HERE*/
+  return () => {
+  try{
+    return fn()
+    } catch(err){
+    return err.message
+  }
+ }
 }
 
 var cleanFunction = cleanseFunction(randomChanceError)
@@ -27,4 +28,3 @@ var cleanFunction = cleanseFunction(randomChanceError)
 for (var i=0; i < 10; i++) {
   console.log(cleanFunction())
 }
-```
