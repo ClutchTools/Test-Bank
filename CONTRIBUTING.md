@@ -13,10 +13,9 @@ If you are interested in submitting problems that should be a part of this proje
 
 ## Pull Request Notes
 
-1. Please have two seperate branches (master and solution) with the correct resources in each.
-2. Please follow the format of the example file in the folder of which you are adding to.
-3. Prompts/Problems must have provided detailed solutions with clear notes/comments.
-4. Pull requests will be merged once all the criteria above is met
+1. Please follow the format of the example file in the folder of which you are adding to.
+2. Prompts/Problems must have provided detailed solutions with clear notes/comments.
+3. Pull requests will be merged once all the criteria above is met
 
 ## Code of Conduct
 
