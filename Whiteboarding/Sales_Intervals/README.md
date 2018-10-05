@@ -2,11 +2,13 @@
 ## Prompt
 You are given a class of the following format, where startTime and endTime are inclusive:
 
+```
 class Interval(startTime, endTime, price) {
 	this.startTime = startTime;
 	this.endTime = endTime;
 	this.price = price;
 }
+```
 
 Given an input Array of Intervals, output an array of Intervals such that each Interval indicates
 the minimum price for that given Interval.
